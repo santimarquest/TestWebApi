@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "79/4MnPzSnW+GrwIp33UXA09UpT6npjm6pEMTvnZjBQ=",
+  "Source": "HowToTestYourCsharpWebApi.Api",
+  "BasePath": "_content/HowToTestYourCsharpWebApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
